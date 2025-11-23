@@ -9,14 +9,14 @@ body:
     id: description
     attributes:
       label: Describe your request
-      description: A clear and concise description of why do you need a "XYZ.mlcommunity.dev" domain
+      description: A clear and concise description of why do you need a "XYZ.aicommunity.dev" domain
     validations:
       required: true
   - type: input
     id: subdomain
     attributes:
       label: Subdomain
-      description: The subdomain you are requesting. For example, if you want "example.mlcommunity.dev", the subdomain is "example". Please note that the subdomain must be in lowercase and contain only alphanumeric characters and hyphens. And, it should not already exist in the ddns repo.
+      description: The subdomain you are requesting. For example, if you want "example.aicommunity.dev", the subdomain is "example". Please note that the subdomain must be in lowercase and contain only alphanumeric characters and hyphens. And, it should not already exist in the ddns repo.
     validations:
       required: true
   - type: textarea

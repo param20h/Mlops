@@ -45,17 +45,17 @@ When submitting your pull request, we ask that you add your email under the emai
 
     "owner": {
         "username": "ml-comm",
-        "email": "admin@mlcommunity.dev"
+        "email": "admin@aicommunity.dev"
     },
 
     "target": {
         "CNAME": {
             "name": "demo",
-            "value": "ml-comm.github.io"
+            "value": "ai-comm.github.io"
         }
     },
 
     "proxied": true
 }
 ```
-*You can find a demo file [here](https://github.com/ml-comm/ddns/blob/main/domains/demo.json).*
+*You can find a demo file [here](https://github.com/ai-comm/ddns/blob/main/domains/demo.json).*
