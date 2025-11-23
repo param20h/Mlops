@@ -7,7 +7,7 @@ hero:
   text: "A free subdomain provider for the Machine Learning community "
   tagline: "🚀"
   image:
-      src: "https://github.com/ML-comm.png"
+      src: "https://github.com/ai-community-dev.png"
       alt: "Hero Image"
   actions:
     - theme: brand
@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: "Free Subdomain"
-    details: "Get a free `*.mlcommunity.dev` subdomain for your machine learning, data science, AI, or research project."
+    details: "Get a free `*.aicommunity.dev` subdomain for your machine learning, data science, AI, or research project."
   - title: "Easy Setup"
     details: "Fork the repository, create a configuration file, and submit a pull request. We'll take care of the rest."
   - title: "Community Driven"

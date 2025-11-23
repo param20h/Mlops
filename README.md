@@ -1,14 +1,14 @@
-<h1 align="center">mlcommunity.dev</h1>
+<h1 align="center">aicommunity.dev</h1>
 
 <p align="center">
 A free subdomain provider for the Machine Learning community 🚀
 </p>
 
-[![Publish](https://github.com/ml-comm/ddns/actions/workflows/publish.yml/badge.svg)](https://github.com/ml-comm/ddns/actions/workflows/publish.yml)
+[![Publish](https://github.com/ai-community-dev/ddns/actions/workflows/publish.yml/badge.svg)](https://github.com/ai-community-dev/ddns/actions/workflows/publish.yml)
 
 ## Register
 
-Please read the [documentation](https://ml-comm.github.io/ddns/) about how to register a subdomain.
+Please read the [documentation](https://ai-community-dev.github.io/ddns/) about how to register a subdomain.
 
 ---
 

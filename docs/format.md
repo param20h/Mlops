@@ -41,21 +41,21 @@ When submitting your pull request, we ask that you add your email under the emai
 ## JSON Example 
 ```json
 {
-    "repo": "https://github.com/ML-comm/ddns",
+    "repo": "https://github.com/ai-community-dev/ddns",
 
     "owner": {
-        "username": "ml-comm",
-        "email": "admin@mlcommunity.dev"
+        "username": "ai-community-dev",
+        "email": "admin@aicommunity.dev"
     },
 
     "target": {
         "CNAME": {
             "name": "demo",
-            "value": "ml-comm.github.io"
+            "value": "ai-comm.github.io"
         }
     },
 
     "proxied": true
 }
 ```
-*You can find a demo file [here](https://github.com/ml-comm/ddns/blob/main/domains/demo.json).*
+*You can find a demo file [here](https://github.com/ai-comm/ddns/blob/main/domains/demo.json).*
