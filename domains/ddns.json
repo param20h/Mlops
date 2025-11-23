@@ -1,15 +1,15 @@
 {
-    "repo": "https://github.com/ML-comm/ddns",
+    "repo": "https://github.com/ai-community-dev/ddns",
 
     "owner": {
-        "username": "ml-comm",
-        "email": "team@mlcommunity.dev"
+        "username": "ai-community-dev",
+        "email": "team@aicommunity.dev"
     },
 
     "target": {
         "CNAME": {
             "name": "ddns",
-            "value": "ml-comm.github.io"
+            "value": "ai-community-dev.github.io"
         }
     },
 
