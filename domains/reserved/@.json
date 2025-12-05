@@ -7,16 +7,10 @@
   },
 
   "target": {
-    "CNAME": [
-      {
+    "CNAME": {
         "name": "@",
         "value": "aicommunity-dev.vercel.app"
-      },
-      {
-        "name": "s",
-        "value": "cname.dub.co"
       }
-    ]
   },
   
   "proxied": false
